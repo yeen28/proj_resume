@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'NanumSquareRound';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.resume_wrap {
+	margin-top: 50px;
+	margin-bottom: 70px;
+	font-family: NanumSquareRound';
+}
+
+.resume_head {
+	border-bottom: 1px solid;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.resume_profile {
+	border-right: 1px solid;
+	height: 800px;
+	padding-right: 30px;
+}
+
+.resume_body {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	padding-left: 30px;
+}
+
+.resume_card {
+	border-radius: 16px;
+	border: 1px solid #D5D5D5;
+	margin-bottom: 50px;
+	padding: 30px;
+}
+
+.resume_card_left {
+	margin-top: 10px;
+}
+
+.resume_card_middle {
+	margin-top: 15px;
+}
+
+.resume_form {
+	margin-top: 20px;
+}
+
+.resume_profile_info {
+	margin-top: 30px;
+	word-break:break-all;
+}
+
+.edit_prof {
+	margin-top: 100px;
+}
+
+.prof_img {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}

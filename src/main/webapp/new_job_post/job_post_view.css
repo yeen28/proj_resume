@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.job_post_wrap {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.job_post_head {
+	margin-bottom: 20px;
+}
+
+.companyPost1 {
+	margin-top: 30px;
+	margin-left: 100px;
+}
+
+.companyPost2 {
+	margin-top: 20px;	
+	margin-left: 100px;
+	margin-bottom: 30px;
+}
+
+.job_postBtn {
+	font-size: 20px; 
+	background-color: #494949;
+	color: #FFFFFF;
+	border: 1px solid #494949;
+	border-radius: 4px;
+}
+
+tr { 
+	display: block;	
+	float: left; 
+}
+
+th, td { 
+	display: block; 
+}
