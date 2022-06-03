@@ -1,5 +1,13 @@
 # proj_resume
-<h3>Model1 프로젝트</h3><br/><br/>
+### Model1 프로젝트
 
-![image](https://user-images.githubusercontent.com/48883549/146975713-a2c44ace-1022-4037-805d-dac3d42a6a1d.png)
-&nbsp;&nbsp;&nbsp;&nbsp;![image](https://user-images.githubusercontent.com/48883549/146975812-61e51bdd-1111-4971-95c3-81e6dbc58b57.png)
+<br/>
+
+## 개발 환경
+![image](https://user-images.githubusercontent.com/48883549/171810356-2071483a-1457-4c93-b4bf-820f975304ac.png)
+
+<br/>
+
+## 프로젝트 설명
+- 자신의 이력서와 포트폴리오를 작성 및 관리 하고 싶을 때, <br/>보편적이고 효율적인 방식으로 틀과 양식을 제공하며, 저장을 손쉽게 하도록 도와줍니다.
+- 개발 직군에 대한 채용 공고를 손쉽게 접근할 수 있습니다.
