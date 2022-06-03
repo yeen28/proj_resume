@@ -1,5 +1,5 @@
-# proj_resume
-### Model1 프로젝트
+# 이력서 및 채용공고
+Model1 프로젝트
 
 <br/>
 
